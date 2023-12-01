@@ -1,9 +1,9 @@
-# hanium
+## Hanium
 ### 2020 hanium project - Intelligent Food Ingredients Management X E-Commerce 
 
 
 
-# 소개  
+## 소개  
 ### 음식물 쓰레기 문제 해결을 위한 식재료 지능화 관리
   * 식재료 구매부터 폐기까지 정보 및 기능 제공
     * 검색을 통해 식재료 정보와 폐기 방법 제공
@@ -18,7 +18,7 @@
 
 
 
-# 성과  
+## 성과  
 ### 한이음 공모전 입선 
 ![image](https://user-images.githubusercontent.com/67588446/111149024-b0734180-85cf-11eb-9d20-bc86fe457f88.png)  
 시연(youtube) : https://youtu.be/hYwN-_jjMM4
@@ -27,7 +27,7 @@
 ### KIPS 2020 온라인 추계학술발표대회 논문게재
 논문 : https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/2020fall/presentation/KIPS_C2020B0129.pdf  
 
-# 요구사항
+## 요구사항
 <details>
   <summary>상세 내용 확인</summary>
   <div markdown="1">
@@ -56,7 +56,7 @@
   </div>
 </details>
 
-# 설계
+## 설계
 <details>
   <summary>상세 내용 확인</summary>
   <div markdown="1">
@@ -73,7 +73,7 @@
   </div>
 </details>
 
-# 개발환경
+## 개발환경
 <details>
   <summary>상세 내용 확인</summary>
   <div markdown="1">
