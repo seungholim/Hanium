@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="/api/test2/upload" method="post">
+        <input type="text" name="title" enctype="application/json">
+        <input type="file" name="titleImage" enctype="multipart/form-data">
+        <input type="file" name="descriptionImage" enctype="multipart/form-data">
+        <input type="submit" value="S3에 보내기">
+    </form>
+</body>
+
+</html> 
+
+<!-- title : <input type="text" name="title">
+<input type="file" name="titleImage" enctype="multipart/form-data">
+<input type="file" name="descriptionImage" enctype="multipart/form-data">
+<input type="submit" value="S3에 보내기"> -->
